@@ -1,0 +1,142 @@
+@media screen and (min-width:720px) {
+
+	nav{
+		
+		background: #87CEFA;
+		width: 100%;
+		
+		}
+
+	header{
+		
+		background: #E6E6FA;
+		width: 100%;
+		
+		}
+	  
+	footer{
+		
+		background: #E6E6FA;
+		width: 100%;
+		
+		}
+
+	main section div{
+	width: 8.3%;
+	background-color: yellow;
+	float: left;
+	}
+
+	section div:nth-child(2n) {
+		background: lightblue;
+	}
+}
+
+
+
+@media screen and (min-width:768px) {
+
+	nav{
+		
+		background: #87CEFA;
+		width: 100%;
+		
+		}
+
+	header{
+		
+		background: #E6E6FA;
+		width: 100%;
+		
+		}
+	  
+	footer{
+		
+		background: #E6E6FA;
+		width: 100%;
+		
+		}
+
+	main section div{
+	width: 25%;
+	background-color: yellow;
+	float: left;
+	}
+
+	section div:nth-child(2n) {
+		background: lightblue;
+	}
+}
+
+@media screen and (min-width:1024px) {
+
+	nav{
+		
+		background: #8B0000 ;
+		width: 100%;
+		
+		}
+
+	header{
+		
+		background: #FFA07A;
+		width: 100%;
+		
+		}
+	  
+	footer{
+		
+		background: #8B0000;
+		width: 100%;
+		
+		}
+
+	main section div{
+	width: 50%;
+	background-color: #DC143C;
+	float: left;
+	}
+
+	section div:nth-child(2n) {
+		background: #FF7F50;
+	}
+}
+
+
+@media screen and (min-width:1366px) {
+
+	nav{
+		
+		background: #FF6347 ;
+		width: 100%;
+		
+		}
+
+	header{
+		
+		background: #FF9966;
+		width:  100%;
+		
+		}
+	  
+	footer{
+		
+		background: #FF7F50;
+		width: 100%;
+		
+		}
+
+	main section div{
+	width: 8.333333333333333%;
+	background-color: #1E90FF;
+	float: left;
+	}
+
+	section div:nth-child(2n) {
+		background: #00FFFF;
+	}
+}
+
+
+
+
